@@ -13,7 +13,8 @@ The total stock volume of the stock. The result should match the following image
 Images\image-1.png
 Moderate solution
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
-Images\image.png
+![image](https://github.com/user-attachments/assets/9fb81c81-ad4e-4a84-bcf4-4a370f0bcd56)
+
 Hard solution
 Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every quarter) at once.
 
