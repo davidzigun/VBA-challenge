@@ -10,7 +10,8 @@ Quarterly change from the opening price at the beginning of a given quarter to t
 The percentage change from the opening price at the beginning of a given quarter to the closing price at the end of that quarter.
 
 The total stock volume of the stock. The result should match the following image:
-Images\image-1.png
+![image](https://github.com/user-attachments/assets/b9f5367d-6e72-4b77-b23b-2c01e1c4e299)
+
 Moderate solution
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
 ![image](https://github.com/user-attachments/assets/a95e33d4-397b-40fb-84b7-35f206f1d9ef)
